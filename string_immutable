@@ -1,0 +1,2 @@
+#strings are immutable 
+#Its contents can't be changed ,we need to make a NEW STRING to make changes

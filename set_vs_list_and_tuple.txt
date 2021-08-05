@@ -1,0 +1,3 @@
+lists and tuples are in sequence - sets are unordered
+lists and tuples can have duplicates - sets cannot have duplicates
+dictionary have key and values - sets have unique keys

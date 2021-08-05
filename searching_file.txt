@@ -1,0 +1,6 @@
+name:vamsi
+college: IIIT Sricity
+name:poojitha 
+college: JNTU Pulivendula
+name:manoj
+college:something
